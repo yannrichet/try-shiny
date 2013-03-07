@@ -1,2 +1,3 @@
-Inspired from brianbolt / rShinyApps
-added bi-directional input <-> output data support
+Inspired from brianbolt / rShinyApps, cafe876 / Shiny-Sandbox
+
+Bi-directional input <-> output data support
